@@ -1,5 +1,5 @@
 # Projects Overview
-Since some of my projects are not visible on GitHub, this list provides an overview of repositories in which I am substantially involved.
+Since some of my projects are not on GitHub, this list provides an overview of repositories in which I am substantially involved.
 
 
 ## [Daily Lichess Activity Heatmap](https://github.com/M-Miller-42/lichessActivity)

@@ -1,12 +1,11 @@
 # Projects Overview
 Since some of my projects are not on GitHub, this list provides a better overview of my repositories.
 
+## [Rational Decision Making Tool](https://github.com/M-Miller-42/rational-decision-making)
+WIP: A tool to find the best option by evaluating them under different criteria.
 
-## [Daily Lichess Activity Heatmap](https://github.com/M-Miller-42/lichessActivity)
+**Vue.js, Vite, Node, Github Actions**
 
-A simple calendar chart visualizing how many games of chess a user played per day on Lichess.org
-
-**Plain JS, SCSS**
 
 
 ## [iconet Extension for Mastodon](https://codeberg.org/iconet-Foundation/mastodon)
@@ -29,8 +28,9 @@ Information page about the iconet foundation. The site works with and without Ja
 
 **Laravel, PHP, Blade, node.js, webpack**
 
+## [Daily Lichess Activity Heatmap](https://github.com/M-Miller-42/lichessActivity)
 
-## [Rational Decision Making Tool](https://github.com/M-Miller-42/rational-decision-making)
-WIP: A tool to find the best option by evaluating them under different criteria.
+A simple calendar chart visualizing how many games of chess a user played per day on Lichess.org
 
-**Vue.js, Vite, Node, Github Actions**
+**Plain JS, SCSS**
+
